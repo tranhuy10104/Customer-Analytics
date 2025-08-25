@@ -79,7 +79,7 @@ RFM (Recency, Frequency, Monetary Value) analysis has segmented customers into 1
 
 Based on the insights gathered, here are some actionable recommendations:
 
-1.  **Target Middle-Aged Customers:** Develop products, services, and marketing campaigns specifically tailored to the 40-59 age group, as this segment generates the highest revenue.
+1.  **Target Middle-Aged Customers:** Develop products, services, and marketing campaigns specifically tailored to the 50-59 age group, as this segment generates the highest revenue.
 2.  **Strengthen Presence in Core Markets:** Continue investing in and expanding business operations in the United States and Australia.
 3.  **Customer Retention Strategies:**
     * **For "Champions" and "Loyal Customers":** Implement loyalty programs, exclusive offers, and premium services to maintain their loyalty and encourage repeat purchases.
