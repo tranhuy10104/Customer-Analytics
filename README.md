@@ -41,8 +41,8 @@ Here are the significant insights derived from the analysis of customer and sale
 * **Gender and Marital Status Distribution:** Sales are fairly balanced between male (50.46%) and female (49.54%) customers, as well as between married (51.73%) and single (48.27%) customers. This suggests that both groups make significant contributions to revenue.
 * **Sales by Age Band:**
     * The **50-59 age group** contributes the highest sales (approximately 9 million), indicating this is a core customer segment.
-    * The **40-49 and 30-39 age groups** also show substantial contributions.
-    * The "Above 60" age group has the lowest sales.
+    * The **Above 60 and 40-49 age groups** also show substantial contributions.
+    * The "30-39" age group has the lowest sales.
     * **Insight:** Middle-aged customers (40-59 years old) represent the most valuable customer segment in terms of revenue and should be a focus for marketing strategies.
 * **Sales by Country:**
     * The **United States** is the top country contributor to sales (21.34K), significantly outperforming other nations.
